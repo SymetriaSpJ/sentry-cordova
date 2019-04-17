@@ -34,7 +34,7 @@ export default [
   {
     input: 'src/js/sentry-cordova.ts',
     output: {
-      file: 'dist/js/sentry-cordova.bundle.min.js',
+      file: 'js/sentry-cordova.bundle.min.js',
       format: 'cjs',
       exports: 'named',
       sourcemap: true,
@@ -44,7 +44,7 @@ export default [
   {
     input: 'src/js/sentry-cordova.ts',
     output: {
-      file: 'dist/js/sentry-cordova.bundle.js',
+      file: 'js/sentry-cordova.bundle.js',
       format: 'cjs',
       exports: 'named',
       sourcemap: true,
