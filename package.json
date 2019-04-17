@@ -1,8 +1,8 @@
 {
   "name": "fitatu-sentry-cordova",
   "version": "0.14.1",
-  "main": "js/sentry-cordova.js",
-  "types": "js/sentry-cordova.d.ts",
+  "main": "src/js/sentry-cordova.js",
+  "types": "src/js/sentry-cordova.d.ts",
   "license": "MIT",
   "repository": "https://github.com/SymetriaSpJ/sentry-cordova",
   "cordova": {
