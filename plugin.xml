@@ -67,9 +67,9 @@
         </config-file>
     </platform> -->
 
-    <!--<hook type="after_plugin_add" src="scripts/plugin_add_rm.js" />-->
-    <!--<hook type="after_platform_add" src="scripts/plugin_add_rm.js" />-->
-    <!--<hook type="before_plugin_rm" src="scripts/plugin_add_rm.js" />-->
+    <hook type="after_plugin_add" src="scripts/plugin_add_rm.js" />
+    <hook type="after_platform_add" src="scripts/plugin_add_rm.js" />
+    <hook type="before_plugin_rm" src="scripts/plugin_add_rm.js" />
 
-    <!--<hook type="before_compile" src="scripts/before_compile.js" />-->
+    <hook type="before_compile" src="scripts/before_compile.js" />
 </plugin>
