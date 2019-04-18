@@ -42,10 +42,6 @@ playground.xcworkspace
 # Swift Package Manager
 .build/
 
-# Carthage
-**/Carthage/Build
-**/Carthage/Checkouts
-
 # CocoaPods
 **/Pods
 
