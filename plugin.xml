@@ -50,9 +50,7 @@
 
         <!-- We don't have a resource-file here since this adds it to Xcode project -->
 
-        <source-file src="src/ios/Carthage/Build/iOS/Sentry.framework" />
-
-        <framework src="src/ios/Carthage/Build/iOS/Sentry.framework" custom="true" />
+        <framework src="src/ios/Carthage/Build/iOS/Sentry.framework" custom="true" embed="true" />
     </platform>
 
     <!-- browser -->
